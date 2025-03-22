@@ -46,7 +46,7 @@
 
 
 <img src="https://raw.githubusercontent.com/khoait03/shoes-shop/main/public/demo/home.png" alt="Ecommerce" width="900">
-
+---
 <img src="https://raw.githubusercontent.com/khoait03/shoes-shop/main/public/demo/admin-products.png" alt="Ecommerce" width="900">
 
 
