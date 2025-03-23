@@ -1,4 +1,4 @@
-# Hệ thống website đăng tin tuyển dụng và tìm kiếm việc tích hợp công cụ tạo CV
+# Hệ thống website thương mại điện tử bán giày và phụ kiện tích hợp thanh toán online.
 
 ## Phạm vi dự án
 
